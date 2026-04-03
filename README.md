@@ -2,6 +2,8 @@
 
 <<h1>Hi, I'm Arianna! <br/>
   Cybersecurity Professional https://www.linkedin.com/in/arianna-williams-107661204
+🏅 Google Cybersecurity Certificate-https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww%2Ecoursera%2Eorg%2Faccount%2Faccomplishments%2Fspecialization%2F229OAFWYSGC8&urlhash=29kx&isSdui=true
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
