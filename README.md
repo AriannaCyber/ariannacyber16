@@ -7,7 +7,7 @@
 <h2> 💜Beacon Charms App Project💜</h2>
 https://github.com/AriannaCyber/Beacon-Project-
 <h3> 👾💜🔐 GitHub Hack the Box 👾💜🔐 <h3>
-  https://github.com/AriannaCyber/hack-the-box-labs
+  https://github.com/AriannaCyber/hack-the-box-labs 
   
   ![Python](https://img.shields.io/badge/Python-Learning-purple)
   
