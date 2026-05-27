@@ -2,9 +2,10 @@
 <<h1>Hi, I'm Arianna! <br/>
   Cybersecurity Professional https://www.linkedin.com/in/arianna-williams-107661204
 🏅 Google Cybersecurity Certificate-https://www.coursera.org/account/accomplishments/specialization/229OAFWYSGC8
-<h2> 🤳 Connect with me </h2>
+<h2> 💜Beacon Charms App Project💜</h2>
+https://github.com/AriannaCyber/Beacon-Project-
+<h3> 🤳 Connect with me </h3>
 https://www.linkedin.com/in/arianna-williams-107661204
-
 
 
 - 🔭 I’m currently working on building Beacon Charms™ — a child safety and tracking application designed to help parents monitor their children through wearable jewelry technology and real-time location tracking.
