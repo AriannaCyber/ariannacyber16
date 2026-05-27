@@ -4,6 +4,7 @@
 🏅 Google Cybersecurity Certificate-https://www.coursera.org/account/accomplishments/specialization/229OAFWYSGC8
 <h2> 💜Beacon Charms App Project💜</h2>
 https://github.com/AriannaCyber/Beacon-Project-
+<h3> 👾💜🔐 
 <h3> 🤳 Connect with me </h3>
 https://www.linkedin.com/in/arianna-williams-107661204
 
